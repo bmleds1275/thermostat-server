@@ -15,8 +15,12 @@ The Wifi interface will be used to connect to the outside word.
 Information dealing with heating will reside in SQLite.
 
 
+There will also be pulling of information from the National Weather Service
+https://www.weather.gov/documentation/services-web-api
+
 More information will follow.
 
 Installation Notes.
 
 Installation Script:
+sudo apt install sqlite
